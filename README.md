@@ -11,3 +11,6 @@ Open weather map API description.
 Get current weather information.
 Get weather forecast information.
 Use jquery plugin to animate text.
+
+
+I am trying to host this in github
